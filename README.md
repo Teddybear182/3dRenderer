@@ -1,4 +1,4 @@
-# 3dRenderer
+# 3D Renderer
 
 ### Simple renderer made with Python
 
